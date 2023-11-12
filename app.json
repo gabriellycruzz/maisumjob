@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "maisumjob-reactnative",
+    "slug": "maisumjob-reactnative",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "14685301-cb50-410a-bf90-cd761dbd4787"
+      }
+    }
+  }
+}
